@@ -1,7 +1,7 @@
 defmodule Bypass.Mixfile do
   use Mix.Project
 
-  @version "2.1.1"
+  @version "2.1.2"
   @source_url "https://github.com/PSPDFKit-labs/bypass"
 
   def project do
